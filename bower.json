@@ -1,0 +1,20 @@
+{
+  "name": "ToDo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/manueldelreal/ToDo",
+  "authors": [
+    "Manuel Del Real <manuel.delreal@gmail.com>"
+  ],
+  "description": "A project to track tasks to do",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
